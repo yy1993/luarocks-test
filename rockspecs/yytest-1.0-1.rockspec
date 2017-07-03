@@ -1,4 +1,4 @@
-package = "yy-test"
+package = "yytest"
 version = "1.0-1"
 source = {
    url = "git://github.com/yy1993/luarocks-test",
@@ -9,7 +9,7 @@ description = {
    detailed = [[
 	Learn how to upload a package.
    ]],
-   homepage = "https://github.com/yy1993/luarocks-test"
+   homepage = "https://github.com/yy1993/luarocks-test",
    license = "MIT/X11"
 }
 dependencies = {
